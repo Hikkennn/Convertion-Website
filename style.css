@@ -716,10 +716,9 @@ div.form{
 
   .button {
     top: 75px;
-    left: 225px; 
+    left: 150px; 
     font-size: 15px;
-    font-family: Poppins;
-    transform: translateX(-50%); 
+    font-family: sans-serif;
     position: absolute;
     width: 155.54px;
     height: 34px;
@@ -728,6 +727,12 @@ div.form{
     border: none;
     transition: box-shadow 0.5s ease;
     color: white;
+    font-weight: 300;
+
+    transition-property: transfrom;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
   }
   
   .button:hover {
@@ -735,6 +740,7 @@ div.form{
     border: 2px dashed #3c00ff;
     background-color: white;
     color: black;
+    transform: translateY(-4px); 
   }
   
   .button:active {
