@@ -628,6 +628,7 @@ div.form{
 }
 
 ::placeholder{
+  font-family: sans-serif;
   color: white;
 }
 
@@ -638,9 +639,12 @@ div.form{
   top: 20px;
   position: relative;
   color: white;
+  font-weight: 400;
+  font-family: sans-serif;
 }
 
 ::placeholder{
+  font-family: sans-serif;
   color: white;
 }
 
@@ -650,9 +654,12 @@ div.form{
   left: -0px;
   top: 20px;
   position: relative;
+  font-weight: 400;
+  font-family: sans-serif;
 }
 
 ::placeholder{
+  font-family: sans-serif;
   color: white;
 }
 
@@ -662,9 +669,12 @@ div.form{
   left: -0px;
   top: 20px;
   position: relative;
+  font-weight: 400;
+  font-family: sans-serif;
 }
 
 ::placeholder{
+  font-family: sans-serif;
   color: white;
 }
 
@@ -678,6 +688,14 @@ div.form{
   font-size: 20px;
   font-family: Poppins;
   font-weight: 500;
+}
+
+.decinput{
+  width: 436.13px;;
+  height: 50%;
+  left: 0%;
+  top: 5%;
+  position: relative
 }
 
 .textInput{
