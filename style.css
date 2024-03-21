@@ -691,7 +691,7 @@ div.form{
 }
 
 .decinput{
-  width: 436.13px;;
+  width: 436.13px;
   height: 50%;
   left: 0%;
   top: 5%;
@@ -702,7 +702,7 @@ div.form{
   position: relative;
   color: white;
   font-size: 15px;
-  font-family: Poppins;
+  font-family: sans-serif;
   font-weight: 400;
   width: 436.13px;
   height: 40px;
